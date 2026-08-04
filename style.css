@@ -4,6 +4,8 @@
         word-spacing: 10px;
         background-color: #287E98;
         display: flex;
+        height: 100px;
+        width: 100%;
     }
     div1{
         height: 40px;
