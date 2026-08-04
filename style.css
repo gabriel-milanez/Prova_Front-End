@@ -1,0 +1,13 @@
+@media (max-width: 1080px) and (max-height: 2400px) {
+  body {
+    head{
+        word-spacing: 10px;
+        background-color: #287E98;
+        display: flex;
+    }
+    div1{
+        height: 40px;
+        width: 100px;
+    }
+  }
+}
