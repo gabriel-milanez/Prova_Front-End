@@ -1,15 +1,37 @@
+.p1{
+  display: none;
+} 
+
 @media (max-width: 1080px) and (max-height: 2400px) {
-  body {
-    head{
-        word-spacing: 10px;
+      main{
         background-color: #287E98;
         display: flex;
         height: 100px;
         width: 100%;
+        font-size: 30px;
     }
-    div1{
+    .div1{
         height: 40px;
         width: 100px;
+        background-color: #BBF3F9;
     }
-  }
+}
+@media (min-width: 1365px) and (max-width: 3840px) and (min-height: 956px) and (max-height: 2160px) {
+      main{
+        background-color: #287E98;
+        display: flex;
+        height: 100px;
+        width: 100%;
+        font-size: 30px;
+        gap: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .div1{
+        height: 40px;
+        width: 100px;
+        background-color: #BBF3F9;
+      }
+      .p1{
+        display: block;
+      }
 }
