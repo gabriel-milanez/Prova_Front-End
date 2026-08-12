@@ -168,9 +168,10 @@
       font-size: 100px;
       margin-left: 235px;
       margin-top: 100px;
+      display: flex;
     }
     .img3{
-      width: 2000px;
+      width: 1500px;
       height: 1200px;
     }
     .b2{
@@ -179,10 +180,9 @@
       border-radius: 50px;
       font-size: 50px;
       background-color: #2A8FB0;
-      margin-left: 1500px;
-      margin-bottom: 500px;
+      margin-left: 692px;
       position: absolute;
-      top: 4000px;
+      top: 3400px;
     }
     h2{
       margin-bottom: 0;
@@ -193,10 +193,15 @@
       border-radius: 50px;
       font-size: 50px;
       background-color: #2A8FB0;
-      margin-left: 1500px;
-      margin-bottom: 500px;
+      margin-left: 692px;
       position: absolute;
-      top: 6000px;
+      top: 5400px;
+    }
+    .div4{
+      font-size: 70px;
+    }
+    .div5{
+      height: 1200px;
     }
 }
 @media (min-width: 1365px) and (max-width: 3840px) and (min-height: 956px) and (max-height: 2160px) {
